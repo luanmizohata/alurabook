@@ -12,8 +12,6 @@ Projeto feito durante o curso "Responsividade com Mobile-first" da Alura.
 # 🔨 Funcionalidades do projeto
 Projeto feito com 3 tamanhos de layout: máximo 1023px (mobile); minimo 1024px (tablet) e minimo 1728px (desktop).
 
-![Animacao do projeto](assets/animacaoreadme.gif)
-
 # 📁 Acesso ao projeto
 <p>Você pode acessar o site do projeto (de qualquer dispositivo)<a href="https://luanmizohata.github.io/alurabook/#">clicando aqui</p></a>
 
