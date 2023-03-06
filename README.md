@@ -4,9 +4,9 @@ Projeto feito durante o curso "Responsividade com Mobile-first" da Alura.
 
 # ✔️ Técnicas e tecnologias utilizadas
 <ul>
-  <li> ::marker <code>HTML</code></li>
-  <li> ::marker <code>CSS</code></li>
-  <li> ::marker <code>Swiper JS</code></li>
+  <li> <code>HTML</code></li>
+  <li> <code>CSS</code></li>
+  <li> <code>Swiper JS</code></li>
 </ul>
 
 # 🔨 Funcionalidades do projeto
